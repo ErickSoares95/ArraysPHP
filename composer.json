@@ -1,0 +1,16 @@
+{
+    "name": "erik.lira/arrays-associativo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "ErickLira\\ArraysAssociativos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erick de Lira Soares",
+            "email": "ericklira99@gmail.com"
+        }
+    ],
+    "require": {}
+}
